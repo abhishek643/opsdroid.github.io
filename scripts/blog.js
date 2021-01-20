@@ -1,4 +1,4 @@
-// This script is used in main.js - it's here for maintainability proposes
+// This script is used in the main.js - it's here for maintainability proposes
 
 (function(){ //begin script
 
